@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Chris
 
-<!--
-**cdthompson/cdthompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solutions Architect & Technical Leader with 15+ years in AI/ML,
+AWS, and advertising technology. Most recently at Amazon Advertising,
+building ML and GenAI systems at scale.
 
-Here are some ideas to get you started:
+The repos here are mostly from my AWS DeepRacer days — applying
+reinforcement learning and Bayesian optimization to autonomous
+racing. The k1999-race-lines project became one of the more widely
+used tools in the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📎 [LinkedIn](https://linkedin.com/in/christopherthomps) — that's
+where I'm most active and open to connecting.
